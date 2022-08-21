@@ -7,3 +7,6 @@ In a short span, social media platforms like Facebook, Twitter, and YouTube have
 **Results**
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/54111873/185793981-5212674d-b01c-4d47-9faf-504c95f9246e.png"> </p>
+Performance metrics of binary classification
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/54111873/185794280-0a072154-3bd3-4934-882b-6cad28404c51.png"> </p>
